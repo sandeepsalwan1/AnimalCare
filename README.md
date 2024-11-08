@@ -6,7 +6,7 @@
 	<em>Empowering Insights, Enhancing Animal Welfare</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/sandeepsalwan1/AnimalCare?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/license/sandeepsalwan1/AnimalCare?style=flat&logo=opensourceinitiative&logoColor=white&label=License&color=0080ff" alt="MIT License">
 	<img src="https://img.shields.io/github/last-commit/sandeepsalwan1/AnimalCare?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/sandeepsalwan1/AnimalCare?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/sandeepsalwan1/AnimalCare?style=default&color=0080ff" alt="repo-language-count">
@@ -53,7 +53,7 @@ AnimalCare is an innovative open-source project designed to enhance animal welfa
 | 🧩 | **Modularity**    | <ul><li>Project structure includes separate modules for behavior analysis and main application logic.</li><li>Scripts like `main1.py` and `BehaviorAnalysis/gptCall.py` indicate a clear separation of concerns.</li><li>Reusable components such as Jupyter notebooks for iterative testing and presentation.</li></ul> |
 | 🧪 | **Testing**       | <ul><li>Testing procedures are outlined but specific details or frameworks are not mentioned in the provided data.</li><li>Usage of interactive notebooks may also support live testing and debugging.</li><li>Dependency on consistent environments suggests a focus on integration testing.</li></ul> |
 | ⚡️  | **Performance**   | <ul><li>Uses asynchronous libraries like `aiohttp` and `aiosignal` to enhance performance.</li><li>Performance considerations are evident in the handling of video and image data.</li><li>Efficient data processing with Python's scientific stack (`numpy`, `scipy`).</li></ul> |
-| 🛡️ | **Security**      | <ul><li>Dependency management through `requirements.txt` helps mitigate risks associated with library vulnerabilities.</li><li>Use of secure API calls in `BehaviorAnalysis/gptCall.py` for interacting with external AI services.</li><li>No explicit mention of security practices like encryption or authentication in the provided details.</li></ul> |
+| 🛡️ | **Security**      | <ul><li>Dependency management through `requirements.txt` helps mitigate risks associated with library vulnerabilities.</li><li>Use of secure API calls in `BehaviorAnalysis/gptCall.py` for interacting with external AI services.</li><li>Uses security practices like verification in the provided files.</li></ul> |
 
 ---
 
@@ -227,12 +227,7 @@ Run the test suite using the following command:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+AnimalCare is released under the [MIT License](https://opensource.org/licenses/MIT/). For more details, please refer to the [LICENSE](./LICENSE) file.
 
----
-
-## 🙌 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
 
 ---
