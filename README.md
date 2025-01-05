@@ -1,4 +1,5 @@
- AnimalCare is an open-source project that leverages AI-driven insights for advanced animal behavior monitoring and welfare analysis. By providing tools to analyze video input and deliver actionable insights, AnimalCare empowers veterinarians, researchers, and animal caregivers to make informed decisions that enhance animal health and welfare.
+## AnimalCare
+This is an open-source project that leverages AI-driven insights for advanced animal behavior monitoring and welfare analysis. By providing tools to analyze video input and deliver actionable insights, AnimalCare empowers veterinarians, researchers, and animal caregivers to make informed decisions that enhance animal health and welfare.
 
 <p align="center">
   <img src="resources/example.jpeg" alt="Example Image" width="100%">
