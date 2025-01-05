@@ -3,7 +3,7 @@
 **Why**: By providing tools to analyze video input and deliver actionable insights, AnimalCare empowers veterinarians, researchers, and animal caregivers to make informed decisions that enhance animal health and welfare.
 
 <p align="center">
-  <img src="resources/example.jpeg" alt="Example Image" width="50%">
+  <img src="resources/example.jpeg" alt="Example Image" width="100%">
 </p>
 
 
